@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
