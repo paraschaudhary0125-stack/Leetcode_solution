@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0029-divide-two-integers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0029-divide-two-integers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
