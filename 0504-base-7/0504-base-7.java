@@ -2,12 +2,13 @@ class Solution {
     public String convertToBase7(int num) {
         if(num==0) return "0";
         String s="";
-        Boolean n=num<0;
+        int n=num;
         while(num!=0){
-            s=String.valueOf(Math.abs(num%7))+s;
+            int r=num%7;
+            s=String.valueOf(Math.abs(r))+s;
             num=num/7;
         }
-        if(n){
+        if(n<0){
         s="-"+s;
         }
         return s;
