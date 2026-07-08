@@ -2,7 +2,7 @@ class Solution {
     public List<Integer> selfDividingNumbers(int left, int right) {
         List<Integer> n=new ArrayList<>();
         for(int i=left; i<=right;i++){
-            Boolean f=true;
+            boolean f=true;
             int k=i;
             while(k>0){
                 int r=k%10;
