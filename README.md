@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2396-strictly-palindromic-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 ## String Matching
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1323-maximum-69-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
