@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1512-number-of-good-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1486-xor-operation-in-an-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1486-xor-operation-in-an-array) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0412-fizz-buzz) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -117,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0002-add-two-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
