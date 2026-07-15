@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0169-majority-element) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0048-rotate-image) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0504-base-7) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0002-add-two-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/paraschaudhary0125-stack/Leetcode_solution/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
